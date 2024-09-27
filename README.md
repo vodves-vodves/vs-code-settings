@@ -1,5 +1,5 @@
 # vs-code
-
+```
 {
     "[go]": {
   "editor.formatOnSave": true,
@@ -16,3 +16,4 @@
     "workbench.colorTheme": "Darcula",
     
 }
+```
