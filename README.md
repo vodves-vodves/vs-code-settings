@@ -1,4 +1,5 @@
 # vs-code
+## Settings
 ```
 {
     "[go]": {
@@ -17,3 +18,12 @@
     
 }
 ```
+## Plugins
+Go
+Code Runner - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner  
+Darcule Theme - https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula  
+JetBrains Icon Theme - https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme  
+JetBrains IDE Keymap - https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings  
+JSON to Go - https://marketplace.visualstudio.com/items?itemName=maracko.json-to-go
+## Font
+https://www.jetbrains.com/lp/mono
